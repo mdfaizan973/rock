@@ -1,0 +1,48 @@
+{
+  "freelancers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": "html , css",
+      "hourly_rate": 25,
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDtd0soCSRdpo8Y5klekJdABh4emG2P29jwg&usqp=CAU",
+      "isBooked": false
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": "html , css",
+      "hourly_rate": 30,
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTt3e1Kwif3ATm0aYN_AW0Th6mQcSOuUUpVw&usqp=CAU",
+      "isBooked": true
+    },
+    {
+      "name": "Md Faizan",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDtd0soCSRdpo8Y5klekJdABh4emG2P29jwg&usqp=CAU",
+      "email": "md3522817@gmail.com",
+      "profession": "Web Developer",
+      "skills": "Html",
+      "hourly_rate": "34",
+      "isBooked": "true",
+      "password": "12",
+      "id": 3
+    },
+    {
+      "name": "md nadim",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTt3e1Kwif3ATm0aYN_AW0Th6mQcSOuUUpVw&usqp=CAU",
+      "email": "md3522817@gmail.com",
+      "profession": "Graphic Designer",
+      "skills": "JS",
+      "hourly_rate": "34",
+      "isBooked": "false",
+      "password": "234",
+      "id": 4
+    }
+  ]
+}
